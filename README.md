@@ -1,5 +1,9 @@
 Translate to English all credit goes to original developer
 
+```
+bash <(wget -qO- -o- (https://github.com/arminmacx/233-All-in-one-script-en/raw/main/install.sh)
+```
+
 # 介绍
 
 最好用的 sing-box 一键安装脚本 & 管理脚本
