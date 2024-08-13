@@ -61,8 +61,8 @@ amd64 | x86_64)
     ;;
 esac
 
-is_core=sing-box
-is_core_name=233-All-in-one-script-en
+is_core=233-All-in-one-script-en
+is_core_name=sing-box
 is_core_dir=/etc/$is_core
 is_core_bin=$is_core_dir/bin/$is_core
 is_core_repo=SagerNet/$is_core
