@@ -1,7 +1,7 @@
 Translate to English all credit goes to original developer
 
 ```
-bash <(wget -qO- -o- (https://github.com/arminmacx/233-All-in-one-script-en/raw/main/install.sh)
+bash <(wget -qO- -o- https://github.com/arminmacx/233-All-in-one-script-en/raw/main/install.sh)
 ```
 
 # 介绍
