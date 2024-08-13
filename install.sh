@@ -61,7 +61,8 @@ amd64 | x86_64)
     ;;
 esac
 
-is_core=233-All-in-one-script-en
+is_core=sing-box
+is_en_core=233-All-in-one-script-en
 is_core_name=sing-box
 is_core_dir=/etc/$is_core
 is_core_bin=$is_core_dir/bin/$is_core
@@ -70,7 +71,7 @@ is_conf_dir=$is_core_dir/conf
 is_log_dir=/var/log/$is_core
 is_sh_bin=/usr/local/bin/$is_core
 is_sh_dir=$is_core_dir/sh
-is_sh_repo=$translator/$is_core
+is_sh_repo=$translator/$is_en_core
 is_pkg="wget tar"
 is_config_json=$is_core_dir/config.json
 tmp_var_lists=(
