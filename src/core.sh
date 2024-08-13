@@ -87,6 +87,7 @@ servername_list=(
     www.amazon.com
     www.ebay.com
     www.paypal.com
+    www.gcore.com
     www.cloudflare.com
     dash.cloudflare.com
     aws.amazon.com
